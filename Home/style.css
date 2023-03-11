@@ -1,0 +1,20 @@
+
+/* Home */
+/* Caja de busqueda */
+/* Ocultar btn mas opciones */
+
+/* ocultar radius */
+.supsearcher{
+  display: none;
+}
+.singledestination-only>.checkbox{
+  margin-top: 4px !important;
+  margin-bottom: 21px !important;
+}
+.radio {
+    display: none;
+  }
+/* Estilos newsletter */
+.fix-margin>.newsletter__container{
+   background: #f7f7f7 !important;
+}
